@@ -6,8 +6,6 @@ import java.util.Comparator;
 import java.util.List;
 
 public class Test {
-	List<Integer> list;
-	
 	static List<Integer> khoiTao(int a[]) {
 		List<Integer> list = new ArrayList<Integer>();
 		for (int i = 0; i < a.length; i++) {
